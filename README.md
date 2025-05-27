@@ -1,10 +1,10 @@
 # 🚀 My React Journey
 
-Welcome to **My React Journey** – a personal log of everything I'm learning as I dive into **React.js**. This repo includes practice projects, challenges, and code snippets that reflect my progress through the fundamentals of React.
+Welcome to **My React project 1** – 
 
 ---
 
-## 🧠 What I’ve Learned So Far
+## 🧠 What I’ve Learned and implemented in project-1 So Far
 
 ### ✅ Section 1 Highlights
 
@@ -23,26 +23,6 @@ Welcome to **My React Journey** – a personal log of everything I'm learning as
 - Creating a navbar and main content section for a ReactFacts project
 - Adding background images and styling bullet points
 
----
-
-## 📚 What I’ll Learn in Section 2
-
-Section 2 dives into **props, reusability, and dynamic content**:
-
-- Creating a reusable `Entry` component
-- Understanding and using props
-- Writing JavaScript inside JSX
-- Passing data into components
-- Receiving and destructuring props
-- Using non-string props
-- Importing static assets
-- Looping with `.map()` in JSX
-- Rendering arrays of components
-- The importance of the `key` prop
-- Passing entire objects as props
-- Using the spread operator for cleaner prop-passing
-
----
 
 ## 📁 Projects
 
@@ -58,21 +38,7 @@ A basic React static site built using Vite, showcasing:
 
 📂 Folder: `React-project1` 
 
----
 
-### 📌 Project 2: Travel Journal *(Coming Soon)*
-
-A more advanced React project focused on:
-
-- Reusable components  
-- Dynamic content rendering using props  
-- `.map()` for rendering lists  
-- Managing data structures  
-- Passing and destructuring props  
-- Importing static assets  
-- Best practices for clean, scalable component architecture
-
----
 
 ## 🛠 Getting Started
 
